@@ -28,7 +28,7 @@ var GameManipulator = {
   gamestate: 'OVER',
 
   // GameOver Position
-  gameOverOffset: [190, -75],
+  gameOverOffset: [208, -85],
 
   // Stores an array of "sensors" (Ray tracings)
   // Positions are always relative to global "offset"
